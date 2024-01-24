@@ -1,0 +1,6 @@
+.env
+/docker/apache/logs/*
+/www/html/sia
+/www/html/transparencia
+/www/sia
+/www/transparencia
